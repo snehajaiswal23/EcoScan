@@ -1,2 +1,2 @@
 # EcoScan
-EcoLens is a web app that turns sustainability into a daily habit. It scans products to estimate carbon footprints, builds a personal Eco-DNA profile, and tracks progress with rewards. With fun eco-games and an AI chatbot for tips and stories, it makes greener choices engaging and easy.
+EcoLens is a web app that helps users track the carbon footprint of everyday purchases by scanning packaging, receipts, or barcodes. It builds a personal Eco-DNA profile, shows progress with rewards, adds fun eco-challenges, and includes an AI chatbot for tips—making sustainable choices simple, engaging, and actionable.
